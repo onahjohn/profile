@@ -1,0 +1,124 @@
+body{
+  margin:0px;
+  text-align: center;
+   font-family: 'Merriweather', serif;
+   color: #40514E;
+}
+h1{
+  color: #66BFBF;
+  font-size: 562.5%;
+font-family: 'Sacramento', cursive;
+  margin:50px auto 0 auto;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+font-family: 'Montserrat', sans-serif;
+}
+p{
+    line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top-container{
+  background-color: #EAf9f5;
+  padding-top: 100px;
+  position: relative;:
+}
+.middle-container{
+margin: 100PX 0;
+}
+.bottom-container{
+background-color: #EABFBF;
+margin-top: 60PX;
+padding: 50px 0 20px;
+}
+.bottom-bible{
+  position: absolute;
+  left: 200px;
+  bottom: 250px;
+
+}
+.skills-rows{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.top-bible{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.profile-pix{
+height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.skills-pix{
+  width: 50%;
+  border-radius: 100%;
+  float: left;
+  margin-right:  30px;
+}
+.skills-pix2{
+
+  width: 50%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+.btn{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+font-size: 20px;
+padding: 20px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+background: rgb(210, 122, 101);
+background: -moz-linear-gradient(90deg, rgb(210, 122, 101) 30%, rgb(250, 94, 101) 70%);
+background: -webkit-linear-gradient(90deg, rgb(210, 122, 101) 30%, rgb(250, 94, 101) 70%);
+background: -o-linear-gradient(90deg, rgb(210, 122, 101) 30%, rgb(250, 94, 101) 70%);
+background: -ms-linear-gradient(90deg, rgb(210, 122, 101) 30%, rgb(250, 94, 101) 70%);
+background: linear-gradient(0deg, rgb(210, 122, 101) 30%, rgb(250, 94, 101) 70%);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+text-decoration: none;
+
+}
+.btn:hover{
+  color: yellow;
+}
+.intro{
+  width: 30%;
+  margin:0 auto;
+}
+.contact-message{
+  width:40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
